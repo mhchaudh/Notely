@@ -21,7 +21,7 @@ export const Heading = () => {
         </span>
       </h1>
       <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-        Your connected workspace for seamless productivity and creativity.
+        Your workspace for seamless productivity and creativity.
       </h3>
 
       {isLoadingAuth && (

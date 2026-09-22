@@ -10,7 +10,7 @@ const font = Poppins({
 
 export const Logo = () => {
   return (
-    <div className="flex items-center justify-center">
+    <div className="flex items-center justify-center gap-2">
       <Image
         src="/logo_invert.svg"
         alt="Notely Logo"
