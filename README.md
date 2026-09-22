@@ -27,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Live Site
 
-Live site:
+Live site: [https://notely-rho-three.vercel.app/](https://notely-rho-three.vercel.app/)
